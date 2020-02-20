@@ -1,0 +1,227 @@
+link,name,number,org,price
+//ke.qq.com/course/379701,Python爬虫+人工智能实战班,590人购买,软谋教育,¥1077.22
+//ke.qq.com/course/package/21080,Python爬虫+数据分析高薪班,7人购买,青灯教育,¥8977.22
+//ke.qq.com/course/package/22289,Python爬虫高薪就业VIP班,1人购买,灵犀教育,¥5962.22
+//ke.qq.com/course/408347,【NEXT公开课】1小时学会编写Python爬虫：抓取小说目录和正文,836人购买,腾讯课堂NEXT学院,¥2.23
+//ke.qq.com/course/388952,Python爬虫入门与实战,539人购买,数锐科技,¥77.22
+//ke.qq.com/course/package/21169,Python爬虫工程师高薪就业班,4人购买,青灯教育,¥8471.22
+//ke.qq.com/course/405353,Python爬虫开发从入门到实战,888人购买,青灯教育,¥5777.22
+//ke.qq.com/course/310163,1小时掌握Python爬虫基础,082人购买,数锐科技,¥87.72
+//ke.qq.com/course/357055,Python爬虫实战--基于Python探索火车票的下单过程,07人购买,数锐科技,¥77.22
+//ke.qq.com/course/259720,Python爬虫Scrapy框架项目实战-万和IT教育,4人购买,万和IT教育,¥77.72
+//ke.qq.com/course/436607,Python爬虫实战VIP班【灵犀教育】,584人购买,灵犀教育,¥5366.22
+//ke.qq.com/course/422248,Python爬虫实战体验课,506人购买,达亚学院,¥5.22
+//ke.qq.com/course/414446,Python爬虫课程,46人购买,逻辑教育,¥5762.22
+//ke.qq.com/course/481534,Python爬虫精选视频【灵犀教育】,40人购买,灵犀教育,¥76.22
+//ke.qq.com/course/479328#term_id=101144703,Python爬虫项目入门VIP体验班【六星教育】,064人购买,六星云课堂,¥5.22
+//ke.qq.com/course/484065#term_id=101144703,Python爬虫基础及数据分析,562人购买,郑臣亮,¥7.72
+//ke.qq.com/course/439261#term_id=101144703,2018python基础+就业班人工智能开发Python爬虫项目视频教程,2人购买,云玛教育,¥9.22
+//ke.qq.com/course/575768#term_id=101144703,Python爬虫开发及数据分析实战-课程资源包,4人购买,郑臣亮,¥57.62
+//ke.qq.com/course/575572#term_id=100673409,全勤全额返学费！4天带你解决Python爬虫中各种反爬机制,16人购买,学神 IT 教育,¥07.22
+//ke.qq.com/course/417685#term_id=100673409,Python爬虫基础入门到进阶实战,8人购买,日月光华,¥576.22
+//ke.qq.com/course/376135#term_id=100673409,Python爬虫视频课程：中国女性胸部大小分析,3人购买,李宁,¥577.22
+//ke.qq.com/course/406671#term_id=100673409,python爬虫项目特训,305人购买,逻辑教育,¥57.72
+//ke.qq.com/course/412566#term_id=100673409,python爬虫与反爬特训营,352人购买,逻辑教育,¥87.72
+//ke.qq.com/course/258312#term_id=100673409,Python爬虫零基础入门开发-万和IT教育,575人购买,万和IT教育,¥7.72
+//ke.qq.com/course/339465,Python爬虫|13天搞定Python分布爬虫【尚学堂】,01人购买,尚学高科,¥82.22
+//ke.qq.com/course/345733,Python爬虫应用案例视频课程,96人购买,汤小洋,¥87.22
+//ke.qq.com/course/458097,6天学会Python爬虫及可视化开发,6人购买,知了堂,¥53.22
+//ke.qq.com/course/432604,Python爬虫从入门到精通|全套课程,5人购买,万和IT教育,¥16.22
+//ke.qq.com/course/421840,Python爬虫开发环境与Docker,2人购买,博学谷,¥77.22
+//ke.qq.com/course/423281,Python爬虫实战,42人购买,达亚学院,¥5162.22
+//ke.qq.com/course/446954,人工智能Python爬虫和数据分析教程,511人购买,黄埔课堂,¥576.22
+//ke.qq.com/course/388429,Python爬虫商业实战,7人购买,舟炬线上课堂,¥53.72
+//ke.qq.com/course/258331,Python爬虫网页数据抓取-万和IT教育,3人购买,万和IT教育,¥07.72
+//ke.qq.com/course/290155,python爬虫零基础入门到精通（3）,0人购买,智锋互联,¥53.22
+//ke.qq.com/course/482256,Python爬虫开发及数据分析电商实战,3人购买,郑臣亮,¥7.72
+//ke.qq.com/course/369569,软件测试bug分析，教你精通python爬虫实战【Atstudy网校】,2人购买,博为峰网校在线教育,¥376.22
+//ke.qq.com/course/1130574,Python爬虫系列体验课程,2人购买,北京市海淀区青鸟信息技术职业技能培训学校,¥577.22
+//ke.qq.com/course/251222,python自动化+Py全栈+爬虫+Ai=python全能工程师-挑战年薪30万,5295人购买,马哥教育,¥4362.22
+//ke.qq.com/course/466168,Python全栈开发/爬虫/人工智能/机器学习/数据分析【八期就业班】,88人购买,扣丁学堂,¥4362.22
+//ke.qq.com/course/412380,Python全栈开发/爬虫/人工智能/机器学习/数据分析【千锋教育】,528人购买,扣丁学堂,¥4362.22
+//ke.qq.com/course/324618,Python全栈开发/爬虫/人工智能/机器学习/数据分析【千锋四期】,523人购买,扣丁学堂,¥1622.22
+//ke.qq.com/course/465147,马哥教育Python全栈+爬虫+数据分析+AI小白入门训练营,5万人购买,马哥教育,¥076.22
+//ke.qq.com/course/package/20421,Python全栈+爬虫套餐,59人购买,马哥教育,¥9162.22
+//ke.qq.com/course/455457,Python高薪爬虫体验班【六星教育】,525人购买,六星教育,¥577.22
+//ke.qq.com/course/363018,Python网络爬虫系统项目实战课程【从零基础开始学习】_咕泡学院,320人购买,咕泡教育,¥377.22
+//ke.qq.com/course/430861,Python人工智能入门专题课|游戏破解/动态二维码/玩转微信/爬虫,65人购买,扣丁学堂,¥576.22
+//ke.qq.com/course/468301,Python高薪VIP爬虫体验班【六星教育】,393人购买,六星教育,¥577.22
+//ke.qq.com/course/428190,Python Web全栈开发+爬虫数据分析【学神IT教育】,7人购买,学神IT教育,¥0742.22
+//ke.qq.com/course/395289,【NEXT学院】Python从入门到实战·爬虫,4人购买,腾讯课堂NEXT学院,¥177.22
+//ke.qq.com/course/292473,Python全栈+爬虫+AI人工智能-挑战年薪30万,2人购买,六星教育,¥1662.22
+//ke.qq.com/course/423318,Python+AI实战班（人工智能/爬虫/数据分析/机器学习/深度学习）,82人购买,灵犀教育,¥0777.22
+//ke.qq.com/course/package/21934,Python从入门到爬虫（实战）,8人购买,汤小洋,¥17.22
+//ke.qq.com/course/package/21069,python零基础到爬虫,2人购买,达亚学院,¥3222.22
+//ke.qq.com/course/package/19482,Python全栈/爬虫/算法,2人购买,达亚学院,¥1662.22
+//ke.qq.com/course/package/18285,Python入门到爬虫进阶,3人购买,日月光华,¥576.22
+//ke.qq.com/course/package/18245,撩课-Python-玩转爬虫,5人购买,撩课教育,¥307.22
+//ke.qq.com/course/356543,极客营-Python网络爬虫原理,39人购买,极客教育,¥52.22
+//ke.qq.com/course/262449,Python入门及爬虫项目,56人购买,若泽数据,¥7.72
+//ke.qq.com/course/302933,Python分布式爬虫高级实战技术｜大数据与分布式架构师系列,55人购买,职坐标,¥82.22
+//ke.qq.com/course/180101,Python 网络爬虫数据采集 【优品课堂】,67人购买,优特学院,¥5376.22
+//ke.qq.com/course/462722,【码同学】python测试开发训练营之爬虫技术实战,597人购买,码同学,¥922.22
+//ke.qq.com/course/384040,Python全栈+爬虫+AI人工智能-挑战年薪30万,120人购买,六星云课堂,¥1662.22
+//ke.qq.com/course/356553,极客营-Python Scrapy网络爬虫框架,89人购买,极客教育,¥32.22
+//ke.qq.com/course/482241,python网络爬虫与文本数据分析,0人购买,邓旭东,¥956.22
+//ke.qq.com/course/280358,【云知梦】Python网络爬虫实战,55人购买,云知梦,¥07.22
+//ke.qq.com/course/391758,Python队列多线程快速的网络爬虫,8人购买,东方琦智,¥7.77
+//ke.qq.com/course/417609,Python零基础入门到爬虫实战,4人购买,日月光华,¥46.22
+//ke.qq.com/course/380752,Python零基础轻松进入网络爬虫,52人购买,东方琦智,¥9.32
+//ke.qq.com/course/298957,Python从小白到大牛：项目实战1：网络爬虫与抓取股票数据,53人购买,智捷课堂,¥17.22
+//ke.qq.com/course/436201,Python数据分析与爬虫【大讲台】,3人购买,大讲台,¥76.22
+//ke.qq.com/course/462084,python网页爬虫,2人购买,智锋互联,¥977.22
+//ke.qq.com/course/416425,撩课-Python-爬虫系列-数据解析,5人购买,撩课教育,¥66.22
+//ke.qq.com/course/474403,Python3爬虫内功心法之正则表达式,5人购买,陈华编程学院,¥82.22
+//ke.qq.com/course/454986,python快速入门-python图形化|运算|爬虫|大数据|人工智能,2人购买,山西搜学网络科技有限公司,¥506.22
+//ke.qq.com/course/435511,Python全栈工程师+爬虫+大数据-挑战年薪30万,2人购买,启讯科技,¥1676.22
+//ke.qq.com/course/454172,Python+SQL+爬虫+机器学习全栈数据分析,2人购买,脉策数据,¥9676.22
+//ke.qq.com/course/362361,Python基础/python全栈/运维自动化/爬虫/人工智能【可分段购买】,42人购买,圆方圆学院,¥777.22
+//ke.qq.com/course/409409,撩课-Python-爬虫系列-网络剖析,8人购买,撩课教育,¥46.22
+//ke.qq.com/course/409567,撩课-Python-爬虫系列-网络实战,0人购买,撩课教育,¥46.22
+//ke.qq.com/course/411697,Python 网络爬虫数据分析实战,2人购买,爱数据学院,¥556.22
+//ke.qq.com/course/350789,人工智能数据收集之Python网络爬虫精髓篇【楚才国科】,6人购买,楚才国科,¥076.22
+//ke.qq.com/course/311793,Python3 从零基础到案例，网站爬虫案例项目实战,6人购买,杰瑞教育,¥02.22
+//ke.qq.com/course/327988,基于Python网络爬虫实战,14人购买,北京谷安天下科技有限公司,¥866.22
+//ke.qq.com/course/229840,Python零基础到爬虫项目【Po学校】,2人购买,博匠教育,¥077.22
+//ke.qq.com/course/427712,Python零基础快速就业基础班/网络爬虫/人工智能/商业项目,2人购买,链度学院,¥76.22
+//ke.qq.com/course/589386,Python全栈开发零基础进阶/爬虫/人工智能/机器学习/数据分析,52人购买,海康实训,¥5.22
+//ke.qq.com/course/331825,Python开发实战案例之网络爬虫,0人购买,张子良,¥92.22
+//ke.qq.com/course/1045939,Python全栈开发/爬虫/数据分析/编程/Flask/Scrapy/Pandas/Numpy,52人购买,海康实训,¥5.22
+//ke.qq.com/course/415319,Python网络爬虫基础与实战,3人购买,蜗牛学院,¥576.22
+//ke.qq.com/course/1047461,Python全栈开发/爬虫/人工智能/机器学习/数据分析【八期就业班】,2人购买,扣丁学堂,¥4362.22
+//ke.qq.com/course/387931,【NEXT学院】Python从入门到实战·基础篇,03人购买,腾讯课堂NEXT学院,¥777.22
+//ke.qq.com/course/458302,马哥教育2020Python运维自动化高级进阶班,15人购买,马哥教育,¥7622.22
+//ke.qq.com/course/384790,【NEXT学院】Python从入门到实战·完整篇,89人购买,腾讯课堂NEXT学院,¥3777.22
+//ke.qq.com/course/package/20439,全栈+爬虫+数据+AI,65人购买,马哥教育,¥6622.22
+//ke.qq.com/course/378615,专为小白打造的Python七天速成集训营,8019人购买,马哥教育,¥076.22
+//ke.qq.com/course/255929,python人工智能全栈开发一期【千锋教育】,533人购买,扣丁学堂,¥9622.22
+//ke.qq.com/course/392742,Python Web全栈/自动化运维开发/VIP试听课【学神IT教育】,675人购买,学神IT教育,¥336.22
+//ke.qq.com/course/123918,Python 3 完全零基础入门精讲,411人购买,优特学院,¥077.22
+//ke.qq.com/course/340393,2019python学习必备-零基础Python快速入门教程,5361人购买,马哥教育,¥76.22
+//ke.qq.com/course/366127,最常用Python web框架Django入门与实践,004人购买,路飞学城,¥57.72
+//ke.qq.com/course/427450,Python 高级自动化运维开发架构师班【学神IT教育】,31人购买,学神IT教育,¥9762.22
+//ke.qq.com/course/405766,2019年最新Python3.7 大牛让你20天零基础到精通-含项目实战,8人购买,学神IT教育,¥612.22
+//ke.qq.com/course/453037,Flask框架从基础到高级智能租房项目实践,5人购买,博学谷,¥577.22
+//ke.qq.com/course/392973,【NEXT学院】Python从入门到实战·进阶篇,3人购买,腾讯课堂NEXT学院,¥5777.22
+//ke.qq.com/course/298227,python web开发,2人购买,学神IT教育,¥3766.22
+//ke.qq.com/course/297281,python web开发精讲,2人购买,学神IT教育,¥3766.22
+//ke.qq.com/course/284170,Python人工智能全栈开发二期【千锋教育】,93人购买,扣丁学堂,¥9622.22
+//ke.qq.com/course/292462,Python基础到高级实战,5人购买,六星教育,¥5762.22
+//ke.qq.com/course/297267,python web开发入门到精通,2人购买,学神IT教育,¥3066.22
+//ke.qq.com/course/392034,Python全栈开发职业培训（第八阶段）,2人购买,优效学院,¥3376.22
+//ke.qq.com/course/392131,Python全栈开发职业培训（第六阶段）,2人购买,优效学院,¥3376.22
+//ke.qq.com/course/391903,Python全栈开发职业培训（第一阶段）,2人购买,优效学院,¥3376.22
+//ke.qq.com/course/392024,Python全栈开发职业培训（第四阶段）,2人购买,优效学院,¥3376.22
+//ke.qq.com/course/392149,Python全栈开发职业培训（第七阶段）,2人购买,优效学院,¥3376.22
+//ke.qq.com/course/392061,Python全栈开发职业培训（第十阶段）,2人购买,优效学院,¥3376.22
+//ke.qq.com/course/391925,Python全栈开发职业培训（第二阶段）,2人购买,优效学院,¥3376.22
+//ke.qq.com/course/391968,Python全栈开发职业培训（第三阶段）,2人购买,优效学院,¥3376.22
+//ke.qq.com/course/392137,Python全栈开发职业培训（第十一阶段）,2人购买,优效学院,¥3376.22
+//ke.qq.com/course/240979,最全Python零基础入门到精通完整版-【京峰教育】,35人购买,京峰教育,¥3762.22
+//ke.qq.com/course/451472#term_id=100540081,python+AI VIP体验视频,73人购买,灵犀教育,¥5.22
+//ke.qq.com/course/package/18015,爬虫数据分析,37人购买,逻辑教育,¥3662.22
+//ke.qq.com/course/389628,撩课-Python-GUI编程-PyQt5,34人购买,撩课教育,¥576.22
+//ke.qq.com/course/435403,Python基础编程-Python小白到大神的必经之路,513人购买,缔凡教育,¥762.22
+//ke.qq.com/course/276747,跟着王进老师学开发Python篇第一季：基础入门篇,89人购买,联科教育,¥77.22
+//ke.qq.com/course/432836,Python基础编程实战VIP班,532人购买,灵犀教育,¥5377.22
+//ke.qq.com/course/385048,Python Selenium 3 Web 自动化测试开发实践,31人购买,优特学院,¥5376.22
+//ke.qq.com/course/478459,Python入门+实战训练营,87人购买,誉天教育,¥7.72
+//ke.qq.com/course/265330,周哥教IT.Python基础与AI方向,678人购买,周哥教IT,¥5.22
+//ke.qq.com/course/377659,Python最佳实践,310人购买,知数堂,¥5.22
+//ke.qq.com/course/405125,零基础7天快速入门Python,506人购买,博学谷,¥5.22
+//ke.qq.com/course/408784,零基础编程Python+pycharm到精通,66人购买,潮享教育,¥87.76
+//ke.qq.com/course/417803,40天完成商业级Storm分布式流式计算框架Spark开源集群计算系统,5人购买,职坐标,¥9222.22
+//ke.qq.com/course/418998,【进阶】揭秘全套R语言与GGPLOT可视化精髓 玩转可视化数据分析,2人购买,职坐标,¥9222.22
+//ke.qq.com/course/471289#term_id=100564323,Python编程环境搭建和Pycharm开发工具使用,1人购买,充电了么,¥2.23
+//ke.qq.com/course/404880#term_id=100564323,Python高级开发,506人购买,青灯教育,¥5077.22
+//ke.qq.com/course/387593#term_id=100564323,MySQL Python 数据库管理,9人购买,优特学院,¥866.22
+//ke.qq.com/course/449564#term_id=100564323,Python全栈高薪VIP体验班【缔凡教育】,39人购买,缔凡教育,¥7.72
+//ke.qq.com/course/432117#term_id=100564323,Scrapy爬虫框架,534人购买,乐上轻至,¥17.22
+//ke.qq.com/course/383855#term_id=100564323,Python基础到高级实战,612人购买,六星云课堂,¥5762.22
+//ke.qq.com/course/413487#term_id=100564323,Python面向对象与模块化,988人购买,乐上轻至,¥7.22
+//ke.qq.com/course/389721#term_id=100564323,撩课-12306抢票-实战项目-概述,31人购买,撩课教育,¥02.22
+//ke.qq.com/course/403401#term_id=100564323,精品python核心教程,3万人购买,逻辑教育,¥76.22
+//ke.qq.com/course/447234#term_id=100564323,青少年Python编程基础课,0人购买,上海谦与谦信息技术有限公司,¥76.22
+//ke.qq.com/course/411155#term_id=100564323,Python数据分析班,501人购买,逻辑教育,¥5762.22
+//ke.qq.com/course/344490,Python基础入门视频课程（最适合初学者的教程）,13人购买,汤小洋,¥87.22
+//ke.qq.com/course/406612,Python零基础入门到进阶,359人购买,达亚学院,¥5362.22
+//ke.qq.com/course/407400,Python进阶到项目实战,522人购买,达亚学院,¥1522.22
+//ke.qq.com/course/369044,Python3 零基础到实战开发 工具篇,11人购买,EASON,¥5.22
+//ke.qq.com/course/393562#term_id=100568147,Python全栈高薪VIP体验班【六星教育】,9874人购买,六星云课堂,¥5.22
+//ke.qq.com/course/430152#term_id=100568147,Python3零基础完全入门,35人购买,上海慈德教育科技有限公司,¥776.22
+//ke.qq.com/course/362040#term_id=100568147,LeetCode 百题斩(13~16),98人购买,解惑者学院,¥2.23
+//ke.qq.com/course/374285#term_id=100568147,PyQt5（Python）实战视频课程,84人购买,李宁,¥377.22
+//ke.qq.com/course/454840#term_id=100568147,10节课让你轻松学会python!,7389人购买,誉天教育,¥92.22
+//ke.qq.com/course/366511#term_id=100568147,【全民编程】Python全栈课程之Python基础入门,37人购买,夏正东,¥7.22
+//ke.qq.com/course/443551#term_id=100568147,Python数据分析实战VIP班,74人购买,灵犀教育,¥5776.22
+//ke.qq.com/course/384424#term_id=100568147,Python500元预定,817人购买,六星云课堂,¥922.22
+//ke.qq.com/course/445859#term_id=100568147,【NEXT测试课】爬虫,3人购买,机构测试号-课堂教研,¥52.22
+//ke.qq.com/course/470783#term_id=100568147,Python零基础入门动画教程,8人购买,冯春龙,¥7.62
+//ke.qq.com/course/320473#term_id=100568147,LeetCode 百题斩(7~9),15人购买,解惑者学院,¥2.23
+//ke.qq.com/course/355098#term_id=100568147,LeetCode 百题斩(10~12),03人购买,解惑者学院,¥2.23
+//ke.qq.com/course/474287#term_id=100568147,Python3从入门到核心编程系列课程,3人购买,陈华编程学院,¥7.72
+//ke.qq.com/course/394305#term_id=100568147,Python人工智能VIP体验班【六星教育】,616人购买,六星云课堂,¥322.22
+//ke.qq.com/course/429625#term_id=100568147,Q1数字货币Python量化,2人购买,小童Tobin,¥3207.22
+//ke.qq.com/course/462412#term_id=100568147,python 验证码处理与Scrapy教程,2人购买,智锋互联,¥977.22
+//ke.qq.com/course/410893#term_id=100568147,Python从入门到精通：零基础快速入门课程,5人购买,Stone,¥17.22
+//ke.qq.com/course/390456#term_id=100568147,Python从菜鸟到高手,8人购买,李宁,¥377.22
+//ke.qq.com/course/432270#term_id=100568147,Python全栈自动化基础课程,568人购买,上海凡猫教育科技有限公司,¥76.22
+//ke.qq.com/course/374961#term_id=100568147,Python3 零基础到实战开发 基础篇 【限时优惠】,9人购买,EASON,¥76.22
+//ke.qq.com/course/473294,【云知梦】Ansible自动化运维/运维高端课,2人购买,云知梦,¥527.22
+//ke.qq.com/course/425135,Python400元预定,591人购买,逻辑教育,¥022.22
+//ke.qq.com/course/456621,5天精通Python面向对象编程,2人购买,Stone,¥77.22
+//ke.qq.com/course/476316,Python编程基础-Python模块基本使用/人工智能/快速就业,2人购买,拼客学院,¥76.22
+//ke.qq.com/course/462568,python Scrapy-redis教程,2人购买,智锋互联,¥977.22
+//ke.qq.com/course/470353,Python全栈核心应用实战|量化投资/AI机器学习/前端PYQT5软件开发,2人购买,金丝雀教育,¥877.22
+//ke.qq.com/course/476485,Python进阶编程-Python高性能编程进阶/人工智能/快速就业,2人购买,拼客学院,¥956.22
+//ke.qq.com/course/476502,Python进阶编程-Python高性能编程高级/人工智能/快速就业,2人购买,拼客学院,¥966.22
+//ke.qq.com/course/465583,【Scrapy进阶】高速图片爬虫,2人购买,胡松,¥57.72
+//ke.qq.com/course/458061,Python机器学习,8人购买,逻辑教育,¥3262.22
+//ke.qq.com/course/476474,Python进阶编程-Python高性能编程入门/人工智能/快速就业,2人购买,拼客学院,¥576.22
+//ke.qq.com/course/436832,Python自动化运维/线下付费面授交付课程/VIP课程【东方瑞通】,2人购买,东方瑞通 终身学习,¥3392.22
+//ke.qq.com/course/424495,Python数据分析实战篇：从数据搜集到数据可视化完成房价数据分析,9人购买,智捷课堂,¥67.22
+//ke.qq.com/course/455080,Python高薪VIP体验课-百度可视化开源框架入门实战【六星教育】,525人购买,六星云课堂,¥577.22
+//ke.qq.com/course/435736,爬虫开发 快速获取海量数据 数据分析必会技能,83人购买,缔凡教育,¥5762.22
+//ke.qq.com/course/418197,Python挖掘算法—Scipy快速入门及案例讲解,5人购买,北京盛久盈天科技有限公司,¥077.22
+//ke.qq.com/course/418432,Python中级开发工程师加薪必备技能,9人购买,誉天教育,¥3266.22
+//ke.qq.com/course/418286,Python可视化数据分析之MatplotLib从零到项目演练,5人购买,北京盛久盈天科技有限公司,¥477.22
+//ke.qq.com/course/425399,数据结构和算法,65人购买,逻辑教育,¥5802.22
+//ke.qq.com/course/433369,Python零基础到大数据实战案例教程,548人购买,黄埔课堂,¥866.22
+//ke.qq.com/course/438751,Python在岗培训课程,60人购买,北京软通动力教育科技有限公司,¥576.22
+//ke.qq.com/course/418091,Python网页+web前端实战开发,9人购买,誉天教育,¥5676.22
+//ke.qq.com/course/440398,Python实战编程：从零学Python,2人购买,博学谷,¥537.22
+//ke.qq.com/course/418141,Python数据分析库—Numpy基础教程,5人购买,北京盛久盈天科技有限公司,¥077.22
+//ke.qq.com/course/418329,数据分析可视化—pandas+MatplotLib数据可视化PyECharts高级实战,5人购买,北京盛久盈天科技有限公司,¥477.22
+//ke.qq.com/course/418392,Python核心编程,5人购买,逻辑教育,¥5802.22
+//ke.qq.com/course/419080,黑客安全特训营,67人购买,逻辑教育,¥92.22
+//ke.qq.com/course/440398,Python实战编程：从零学Python,2人购买,博学谷,¥537.22
+//ke.qq.com/course/376722,python精选入门直播,96人购买,逻辑教育,¥77.22
+//ke.qq.com/course/342457,【Scrapy进阶】高速图片爬虫,84人购买,胡松,¥57.72
+//ke.qq.com/course/371456,Python全栈+AI工程师,4人购买,誉天教育,¥58622
+//ke.qq.com/course/375183,七天训练营：数据自动采集机器人,58人购买,胡松,¥82.22
+//ke.qq.com/course/397840,Python全栈习题课,8人购买,北京图灵学院,¥816.22
+//ke.qq.com/course/349826,业界一致好评的Python入门教程（下）,09人购买,北京思无限科技有限责任公司,¥82.22
+//ke.qq.com/course/349727,业界一致好评的Python入门教程（上）,99人购买,北京思无限科技有限责任公司,¥82.22
+//ke.qq.com/course/361633,Python人工智能之核心编程(连载),532人购买,破茧科技学院,¥57.72
+//ke.qq.com/course/362780,Python全栈+人工智能VIP班,1人购买,圆方圆学院,¥777.22
+//ke.qq.com/course/334000,Python100例,0人购买,离岛,¥522.22
+//ke.qq.com/course/305982,跟着王进老师学Python：通过案例讲变量,3人购买,联科教育,¥37.22
+//ke.qq.com/course/306030,跟着王进老师学Python：通过案例讲循环,0人购买,联科教育,¥37.22
+//ke.qq.com/course/306086,跟着王进老师学Python：通过案例讲字典(dict)集合,3人购买,联科教育,¥37.22
+//ke.qq.com/course/306071,跟着王进老师学Python：通过案例讲Tuple元组,8人购买,联科教育,¥37.22
+//ke.qq.com/course/306000,跟着王进老师学Python：通过案例讲运算符,3人购买,联科教育,¥37.22
+//ke.qq.com/course/306021,跟着王进老师学Python：通过案例讲条件选择,3人购买,联科教育,¥37.22
+//ke.qq.com/course/305952,跟着王进老师学Python：初识Python,9人购买,联科教育,¥57.22
+//ke.qq.com/course/306096,跟着王进老师学Python：通过案例讲函数,7人购买,联科教育,¥37.22
+//ke.qq.com/course/234126,征服Python3-快速突击班——零基础通关精讲,9人购买,博为峰网校在线教育,¥476.22
+//ke.qq.com/course/385832,Python3.x全基础+Spider+数据分析库,3人购买,何路斌,¥56.22
+//ke.qq.com/course/306091,跟着王进老师学Python：通过案例讲时间日期,0人购买,联科教育,¥37.22
+//ke.qq.com/course/418426,机器学习—数据预备清洗与特征工程：实战豆瓣电影分析,3人购买,北京盛久盈天科技有限公司,¥077.22
+//ke.qq.com/course/374409,【全民编程】Python全栈课程之Python进阶实战,6人购买,夏正东,¥17.22
+//ke.qq.com/course/306063,跟着王进老师学Python：通过案例讲 List集合,8人购买,联科教育,¥37.22
+//ke.qq.com/course/461508,学Python和玩似的,2人购买,高博应诺,¥57.72
+//ke.qq.com/course/392048,Python全栈开发职业培训（第九阶段）,2人购买,优效学院,¥3376.22
+//ke.qq.com/course/468582,【NEXT测试课】爬虫,2人购买,机构测试号-课堂教研,¥52.22
+//ke.qq.com/course/392067,Python全栈开发职业培训（第五阶段）,2人购买,优效学院,¥3376.22
+//ke.qq.com/course/365035,爬虫从入门到精通（实战教程）,5人购买,路飞学城,¥522.22
+//ke.qq.com/course/476311,Python全栈工程师魔鬼训练营,2人购买,张子良,¥476.22
